@@ -4,7 +4,7 @@
 <h2 align="center">Learn in public and grow with the community. </h2>
 
 <div align=center>
-    <img src="main/folders/DCM_newgif.gif.gif" />
+    <img src="https://github.com/Dev-Change-Makers/.github/blob/main/main/folders/DCM_newgif.gif" />
 </div>
 
 <div align=center>
