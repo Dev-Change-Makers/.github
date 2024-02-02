@@ -4,7 +4,7 @@
 <h2 align="center">Learn in public and grow with the community. </h2>
 
 <div align=center>
-    <img src="main/folders/DCM_gif.gif" />
+    <img src="main/folders/DCM_newgif.gif.gif" />
 </div>
 
 <div align=center>
